@@ -1,0 +1,7 @@
+{
+  "name": "falamorador",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
